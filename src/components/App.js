@@ -47,7 +47,7 @@ const App = () => {
                         fill="white"/>
                   </svg>
                   <p>
-                    ERC-721 Color
+                    ERC-721 Image
                   </p>
                 </div>
                 <div>
